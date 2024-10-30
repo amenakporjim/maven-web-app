@@ -1,12 +1,12 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to JIMDELA IT - DevOps Engineer In Making <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://sankofaallc.com">Click Here To See What Jimdela IT is all about</a>
   
-  <h2> Call Us : +91-9985396677 / +91 - 9985296677 </h2>
+  <h2> Call Us : 480-329-6909 / +480-329-6909 </h2>
   
-  <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Our Ofc Location : Phoenix, Arizona </h3>
 
 
 </body>
